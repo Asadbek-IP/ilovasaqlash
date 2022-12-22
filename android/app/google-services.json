@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092693470629",
+    "project_id": "ilovaishlash-11485",
+    "storage_bucket": "ilovaishlash-11485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092693470629:android:9fbff45ecdfe49ea93cc4c",
+        "android_client_info": {
+          "package_name": "com.example.ilovasaqlash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092693470629-vkvfeuvqvaorcp1dd9hg4rms3rs58shk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuNIowfMoR-Qnhrp35Yf42lEwXD9Jg04o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092693470629-vkvfeuvqvaorcp1dd9hg4rms3rs58shk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
