@@ -97,7 +97,7 @@ setState(() {
                   style: const ButtonStyle(
                     backgroundColor: MaterialStatePropertyAll(Colors.orange),
                   ),
-                  child:  Text("SingIn")),
+                  child:  Text("Sign Up")),
             ),
              SizedBox(
               height: 20,
